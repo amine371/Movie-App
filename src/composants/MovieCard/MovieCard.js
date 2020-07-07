@@ -30,7 +30,6 @@ const MovieCard = ({ movie: { rating, date, image, name, description } }) => {
           <div className='mr-grid action-row'>
             <div className='col2'>
               <div className='watch-btn'>
-                <h3>WATCH TRAILER</h3>
               </div>
             </div>
           </div>
